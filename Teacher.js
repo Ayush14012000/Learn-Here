@@ -211,4 +211,4 @@ open={this.state.open}>
 );
 }
 }
-export default withStyles(useStyles)(Teacher);
+export default withStyledas
